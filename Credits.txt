@@ -15,6 +15,7 @@ RPGMaker/Kadokawa
 KAUZZ Resources
 noir-et-blanc-patisserie.amebaownd.com
 sebacamaru.itch.io
+Daniel Eddeland - opengameart.org/content/lpc-style-farm-animals
 
 @ RPGMAKER FORUMS:
 indrah
@@ -22,3 +23,4 @@ avery
 candacis
 whtdragon
 iliketea
+

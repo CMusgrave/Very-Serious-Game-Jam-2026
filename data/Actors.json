@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":2,"characterName":"Test_Candidates","classId":6,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Test_Candidates","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lobbyist","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"dem_asul","characterIndex":6,"characterName":"Test_Candidates","classId":1,"equips":[2,1,2,3,0],"faceIndex":6,"faceName":"Test_Candidates","traits":[{"code":11,"dataId":3,"value":2},{"code":11,"dataId":2,"value":0.5}],"initialLevel":1,"maxLevel":99,"name":"Asul","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"ind_kennath","characterIndex":7,"characterName":"Test_Candidates","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Test_Candidates","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kennath","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"rep_arlin","characterIndex":4,"characterName":"Test_Candidates","classId":2,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"Test_Candidates","traits":[],"initialLevel":1,"maxLevel":99,"name":"Arlin","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":2,"characterName":"Test_Candidates","classId":6,"equips":[],"faceIndex":2,"faceName":"Test_Candidates","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lobbyist","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"dem_asul","characterIndex":6,"characterName":"Test_Candidates","classId":1,"equips":[],"faceIndex":6,"faceName":"Test_Candidates","traits":[{"code":11,"dataId":3,"value":2},{"code":11,"dataId":2,"value":0.5}],"initialLevel":1,"maxLevel":99,"name":"Asul","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"ind_kennath","characterIndex":7,"characterName":"Test_Candidates","classId":3,"equips":[],"faceIndex":7,"faceName":"Test_Candidates","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kennath","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"rep_arlin","characterIndex":4,"characterName":"Test_Candidates","classId":2,"equips":[],"faceIndex":4,"faceName":"Test_Candidates","traits":[],"initialLevel":1,"maxLevel":99,"name":"Arlin","nickname":"","note":"","profile":""}
 ]

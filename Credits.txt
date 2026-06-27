@@ -1,10 +1,17 @@
-Contributors:
+Main Contributors:
 Christopher
-Hank
+Henny - hmurayama.tumblr.com
 Shoshi
 
 Resources:
-whtdragon/hiddenone
-RPGMaker
+RPGMaker/Kadokawa
 KAUZZ Resources
 noir-et-blanc-patisserie.amebaownd.com
+sebacamaru.itch.io
+Daniel Eddeland - opengameart.org/content/lpc-style-farm-animals
+@ RPGMAKER FORUMS:
+indrah
+avery
+candacis
+whtdragon
+iliketea
